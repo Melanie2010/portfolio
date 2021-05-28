@@ -1,0 +1,29 @@
+/*reset*/
+
+html{
+    font-size: 62.5%;
+}
+body{
+    font: 1.6rem sans-serif;
+    margin: 0;
+}
+h1,h2,h3,p,ul,ol{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-weight: 100;
+}
+*{
+    box-sizing: border-box;
+}
+
+/*theme*/
+header  {
+    line-height: 6.5rem;
+    color: #222;
+    border: solid;
+} 
+img {
+    margin-left: 1150px;
+    margin-top: -105px;
+}
